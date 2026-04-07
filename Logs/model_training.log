@@ -1,0 +1,11 @@
+2026-04-06 16:27:24,921 - model-training - ERROR - Failed to complete the model building process: name 'load_data' is not defined
+2026-04-06 16:28:42,088 - model-training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 51)
+2026-04-06 16:28:42,092 - model-training - DEBUG - Initilizing RandomForestClassifier with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-04-06 16:28:42,092 - model-training - DEBUG - Model training startede with 4152 samples
+2026-04-06 16:28:42,260 - model-training - DEBUG - Model training completed
+2026-04-06 16:28:42,269 - model-training - DEBUG - Model saved to models/model.pkl
+2026-04-07 12:57:52,436 - model-training - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 51)
+2026-04-07 12:57:52,438 - model-training - DEBUG - Initilizing RandomForestClassifier with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-04-07 12:57:52,438 - model-training - DEBUG - Model training startede with 4152 samples
+2026-04-07 12:57:52,599 - model-training - DEBUG - Model training completed
+2026-04-07 12:57:52,606 - model-training - DEBUG - Model saved to models/model.pkl

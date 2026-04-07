@@ -1,0 +1,6 @@
+2026-04-06 17:36:54,404 - model-evaulation - DEBUG - Model loaded from ./models/model.pkl
+2026-04-06 17:36:54,502 - model-evaulation - DEBUG - Model evaluation metrics calculated
+2026-04-06 17:36:54,506 - model-evaulation - DEBUG - Metrics saved to reports/metrics.json
+2026-04-07 12:57:59,394 - model-evaulation - DEBUG - Model loaded from ./models/model.pkl
+2026-04-07 12:57:59,446 - model-evaulation - DEBUG - Model evaluation metrics calculated
+2026-04-07 12:57:59,450 - model-evaulation - DEBUG - Metrics saved to reports/metrics.json

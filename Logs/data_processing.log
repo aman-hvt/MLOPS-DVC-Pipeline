@@ -1,0 +1,62 @@
+2026-04-06 10:55:35,298 - data-processing - DEBUG - Data loaded properly
+2026-04-06 10:55:35,298 - data-processing - DEBUG - Start preprocessing the DataFrame
+2026-04-06 10:55:35,305 - data-processing - DEBUG - Target column encoded successfully
+2026-04-06 10:55:35,315 - data-processing - DEBUG - Duplicte removed successfully
+2026-04-06 10:55:35,315 - data-processing - ERROR - Error during text normalization name 'transform_text' is not defined
+2026-04-06 10:55:35,316 - data-processing - ERROR - Failed to complete the data transformation process: name 'transform_text' is not defined
+2026-04-06 10:57:54,073 - data-processing - DEBUG - Data loaded properly
+2026-04-06 10:57:54,074 - data-processing - DEBUG - Start preprocessing the DataFrame
+2026-04-06 10:57:54,080 - data-processing - DEBUG - Target column encoded successfully
+2026-04-06 10:57:54,094 - data-processing - DEBUG - Duplicte removed successfully
+2026-04-06 10:57:54,097 - data-processing - ERROR - Error during text normalization 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\aman.tyagi/nltk_data'
+    - 'C:\\Users\\aman.tyagi\\AppData\\Local\\anaconda3\\nltk_data'
+    - 'C:\\Users\\aman.tyagi\\AppData\\Local\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\aman.tyagi\\AppData\\Local\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\aman.tyagi\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-04-06 10:57:54,098 - data-processing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\aman.tyagi/nltk_data'
+    - 'C:\\Users\\aman.tyagi\\AppData\\Local\\anaconda3\\nltk_data'
+    - 'C:\\Users\\aman.tyagi\\AppData\\Local\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\aman.tyagi\\AppData\\Local\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\aman.tyagi\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-04-06 11:08:06,911 - data-processing - DEBUG - Data loaded properly
+2026-04-06 11:08:06,912 - data-processing - DEBUG - Start preprocessing the DataFrame
+2026-04-06 11:08:06,917 - data-processing - DEBUG - Target column encoded successfully
+2026-04-06 11:08:06,930 - data-processing - DEBUG - Duplicte removed successfully
+2026-04-06 11:11:12,528 - data-processing - ERROR - Error during text normalization (slice(None, None, None), 'text')
+2026-04-06 11:11:12,545 - data-processing - ERROR - Failed to complete the data transformation process: (slice(None, None, None), 'text')
