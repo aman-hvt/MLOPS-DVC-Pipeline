@@ -19,3 +19,7 @@
 2026-04-07 16:42:05,271 - data-ingestion - DEBUG - Data Loaded Successfully https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
 2026-04-07 16:42:05,277 - data-ingestion - DEBUG - Data preprocessing completed
 2026-04-07 16:42:05,302 - data-ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-04-08 11:07:26,851 - data-ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-04-08 11:07:27,756 - data-ingestion - DEBUG - Data Loaded Successfully https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
+2026-04-08 11:07:27,765 - data-ingestion - DEBUG - Data preprocessing completed
+2026-04-08 11:07:27,816 - data-ingestion - DEBUG - Train and test data saved to ./data\raw
