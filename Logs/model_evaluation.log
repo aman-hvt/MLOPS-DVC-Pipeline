@@ -4,3 +4,11 @@
 2026-04-07 12:57:59,394 - model-evaulation - DEBUG - Model loaded from ./models/model.pkl
 2026-04-07 12:57:59,446 - model-evaulation - DEBUG - Model evaluation metrics calculated
 2026-04-07 12:57:59,450 - model-evaulation - DEBUG - Metrics saved to reports/metrics.json
+2026-04-07 15:45:12,834 - model-evaulation - DEBUG - Parameters retrieved from params.yaml
+2026-04-07 15:45:13,162 - model-evaulation - DEBUG - Model loaded from ./models/model.pkl
+2026-04-07 15:45:13,203 - model-evaulation - DEBUG - Model evaluation metrics calculated
+2026-04-07 15:45:13,206 - model-evaulation - DEBUG - Metrics saved to reports/metrics.json
+2026-04-07 16:46:56,777 - model-evaulation - DEBUG - Parameters retrieved from params.yaml
+2026-04-07 16:46:57,228 - model-evaulation - DEBUG - Model loaded from ./models/model.pkl
+2026-04-07 16:46:57,310 - model-evaulation - DEBUG - Model evaluation metrics calculated
+2026-04-07 16:46:57,315 - model-evaulation - DEBUG - Metrics saved to reports/metrics.json
